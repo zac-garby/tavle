@@ -1,0 +1,12 @@
+[
+  {"name": "capture", "scene": "capture", "open": 0,
+   "caption": "Sweep your phone along the board", "subcaption": "Photos are taken for you as you go"},
+  {"name": "board", "scene": "board", "open": 0,
+   "caption": "One flat, readable picture", "subcaption": "Joined, straightened and cropped to the board"},
+  {"name": "edit", "scene": "edit", "open": 0,
+   "caption": "Just the writing, cleaned up", "subcaption": "Crop to the board or the ink; whiten or B&W"},
+  {"name": "home", "scene": "home",
+   "caption": "Every board, kept", "subcaption": "Original photos stay, so you can fix it later"},
+  {"name": "photos", "scene": "photos", "open": 0,
+   "caption": "Nothing leaves your phone", "subcaption": "No account, no upload"}
+]
